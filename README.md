@@ -13,7 +13,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Forest Segmentation with PCA and KMeans Clustering](https://medium.com/@giorgosmoysiadis/forest-segmentation-with-pca-and-kmeans-clustering-ab59ab47629f)
+- [Forest Segmentation with PCA and KMeans Clustering](https://medium.com/@giorgosmoysiadis/forest-segmentation-with-pca-and-kmeans-clustering-ab59ab47629f?source=rss-f58a286e6877------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
