@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/joemoysiadis" target="blank"><img src="https://img.shields.io/twitter/follow/joemoysiadis?logo=twitter&style=for-the-badge" alt="joemoysiadis" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps for ML**
+- 🌱 I’m currently trying to learn **DevOps for ML**
 
 - 👨‍💻 All of my projects are available at my [portfolio](https://gmoysiad.github.io/)
 
