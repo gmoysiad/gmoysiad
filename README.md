@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **DevOps for ML**
 
-- 👨‍💻 All of my projects are available at [https://gmoysiad.github.io/](https://gmoysiad.github.io/)
+- 👨‍💻 All of my projects are available at my [portfolio](https://gmoysiad.github.io/)
 
 - 📫 How to reach me **giorgosmoysiadis@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12CBMicE-PrNA0D6-KsxF_j7WCciZraw-/view?usp=sharing](https://drive.google.com/file/d/12CBMicE-PrNA0D6-KsxF_j7WCciZraw-/view?usp=sharing)
+- 📄 Know about my experiences through my [CV](https://drive.google.com/file/d/12CBMicE-PrNA0D6-KsxF_j7WCciZraw-/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
